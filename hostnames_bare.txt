@@ -11318,7 +11318,6 @@ fls-eu.amazon.de
 homad-global-configs-eu-fra.schneevonmorgen.com.s3.amazonaws.com
 js.stormiq.com
 jwpltx.com
-l.facebook.com
 lb01sbg.aatkit.com
 omniture.chip.de
 onceux.unicornmedia.com
@@ -11331,3 +11330,4 @@ t1.stormiq.com
 tracking.dc-storm.com
 tube.artelplus.com
 ns.zdbb.net
+beck-adserver.de
