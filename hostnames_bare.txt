@@ -10928,7 +10928,6 @@ ssl-google-analytics.l.google.com
 ssl-heise.met.vgwort.de
 ssl-offloader.vgwzaehlungen.de
 ssl.emsmobile.de
-ssl.gstatic.com
 ssl.mousestats.com
 sslwidget.criteo.com
 ssp-rce.veeseo.com
