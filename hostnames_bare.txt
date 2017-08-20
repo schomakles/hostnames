@@ -9009,7 +9009,6 @@ registration.parallels.com
 update.parallels.com
 pd6.blist.parallels.com
 proxy.novafusion.ea.com
-obdev.at
 activate.adobe.com
 practivate.adobe.com
 ereg.adobe.com
@@ -9087,7 +9086,6 @@ ad-inside.com
 sofialys.com
 akamai.net
 adverline.com
-www.obdev.at
 cf.cdn.inmobi.com
 par.sgmobile.fr
 extmap.an.ace.advertising.com
